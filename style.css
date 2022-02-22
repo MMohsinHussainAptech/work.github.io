@@ -1,0 +1,48 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+.img{
+    background-image: url(images/img1.jpg);
+    padding: 20%;
+}
+
+#mainNav{
+    background-color: white;
+}
+.sec2{
+    padding-top: 10%;
+}
+.s1{
+    padding-bottom: 8% ;
+}
+.s2{
+    width: 30%;
+    padding-left: 12%;
+}
+.s3{
+    width: 30%;
+    padding-left: 12%;
+}
+.s4{
+    width: 30%;
+    padding-left: 12%;
+}
+.imgtxt{
+    margin-left: 2.5%;
+}
+.imgtxt h1{
+    text-align: center;
+    padding-top: 10%;
+    
+}
+.imgtxt h5{
+    text-align: center;
+    padding-bottom: 6%;
+    
+}
+.team{
+    padding-left: 10%;
+}
+.col1{
+    margin-left: 20%;
+}
